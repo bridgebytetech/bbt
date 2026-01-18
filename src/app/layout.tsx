@@ -71,9 +71,9 @@ export const metadata: Metadata = {
     images: [
       {
         url: '/images/og-image.png',
-        width: 1200,
-        height: 630,
-        alt: 'Bridge Byte Tech - Leading Software Company',
+        width: 1080, // Updated
+        height: 1080, // Updated
+        alt: 'Bridge Byte Tech',
       },
     ],
   },
