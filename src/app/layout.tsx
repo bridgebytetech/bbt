@@ -96,13 +96,14 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon-16x16.png',
-    apple: '/apple-touch-icon.png',
-  },
-  manifest: '/site.webmanifest',
-  verification: {
-    google: 'google-site-verification-code', // গুগল সার্চ কনসোল কোড এখানে বসাবে
+    icon: [
+      { url: '/images/logos/logo.png', sizes: '32x32', type: 'image/png' },
+      { url: '/images/logos/logo.png', sizes: '16x16', type: 'image/png' }
+    ],
+    shortcut: '/images/logos/logo.png',
+    apple: [
+      { url: '/images/logos/logo.png', sizes: '180x180', type: 'image/png' },
+    ],
   },
 };
 
