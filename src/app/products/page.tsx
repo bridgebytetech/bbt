@@ -78,7 +78,7 @@ const ownProducts = [
       'Multi-branch Support',
       'Customer Loyalty Program'
     ],
-    tech: ['Spring Boot', 'Kotlin', 'React', 'PostgreSQL', 'Redis'],
+    tech: ['Spring Boot', 'Kotlin', 'React', 'MongoDB'],
     color: 'emerald',
     icon: Utensils,
     gradient: 'from-emerald-500/20 to-transparent'
@@ -100,7 +100,7 @@ const ownProducts = [
       'Lab Report Integration',
       'Multi-clinic Support'
     ],
-    tech: ['Spring Boot', 'Kotlin', 'React', 'MySQL', 'AWS'],
+    tech: ['Spring Boot', 'React', 'MySQL', 'AWS'],
     color: 'blue',
     icon: Stethoscope,
     gradient: 'from-blue-500/20 to-transparent'
@@ -149,7 +149,7 @@ const ownApps = [
       'Pet Product Marketplace',
       'Lost & Found Pets'
     ],
-    tech: ['Flutter', 'Spring Boot', 'PostgreSQL', 'Firebase'],
+    tech: ['Flutter', 'Spring Boot', 'MySQL', 'Firebase', 'Kotlin'],
     color: 'pink',
     icon: PawPrint,
     gradient: 'from-pink-500/20 to-transparent'
@@ -171,7 +171,7 @@ const ownApps = [
       'Educational Resources',
       'Memorial Section'
     ],
-    tech: ['Next.js', 'React', 'Tailwind CSS'],
+    tech: ['Next.js', 'React', 'Tailwind CSS', 'Spring Boot'],
     color: 'amber',
     icon: Heart,
     gradient: 'from-amber-500/20 to-transparent'
@@ -220,7 +220,7 @@ const clientProjects = [
       'Online Identity Protection',
       'Cyber Security Training'
     ],
-    tech: ['WordPress', 'Custom Theme', 'PHP'],
+    tech: ['HTML', 'CSS', 'JavaScript'],
     color: 'red',
     icon: Globe2,
     gradient: 'from-red-500/20 to-transparent'
@@ -243,7 +243,7 @@ const clientProjects = [
       'NGO Partnerships',
       'Volunteer Programs'
     ],
-    tech: ['React', 'Node.js', 'MongoDB'],
+    tech: ['React', 'Node.js', 'MongoDB', 'Spring Boot', 'Java'],
     color: 'green',
     icon: Users,
     gradient: 'from-green-500/20 to-transparent'
@@ -264,7 +264,7 @@ const clientProjects = [
       'Community Guidelines',
       'Educational Content'
     ],
-    tech: ['WordPress', 'Custom Development'],
+    tech: ['React', 'Custom Development', 'Java', 'Spring Boot'],
     color: 'orange',
     icon: Globe2,
     gradient: 'from-orange-500/20 to-transparent'
