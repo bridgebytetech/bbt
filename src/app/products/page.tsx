@@ -78,7 +78,7 @@ const ownProducts = [
       'Multi-branch Support',
       'Customer Loyalty Program'
     ],
-    tech: ['Spring Boot', 'Kotlin', 'React', 'MongoDB'],
+    tech: ['Spring Boot', 'Java', 'React', 'MongoDB'],
     color: 'emerald',
     icon: Utensils,
     gradient: 'from-emerald-500/20 to-transparent'
