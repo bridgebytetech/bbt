@@ -231,7 +231,7 @@ const clientProjects = [
     description: 'A humanitarian platform connecting verified donors with orphanages and underprivileged children in Bangladesh. Facilitating transparent donations and support for those in need.',
     type: 'Client Project',
     status: 'Live',
-    websiteUrl: 'https://insaanbd.com',
+    websiteUrl: 'https://insaanbd.org',
     client: 'InsaanBD Organization',
     features: [
       'Donor Registration',
